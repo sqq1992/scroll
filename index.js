@@ -104,4 +104,4 @@ function phoneScroll(){
     });
 }
 
-console.log('我是master上改的');
+console.log('我是func上改的');
